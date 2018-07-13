@@ -1,0 +1,17 @@
+[
+  {
+    "id": "test/2018/07/test-1",
+    "group": "test",
+    "title": "Test #1",
+    "author": "Mr. Xyfir",
+    "posted": "2018-07-12",
+    "edited": "2018-07-13"
+  },
+  {
+    "id": "test/2018/07/test-2",
+    "group": "test",
+    "title": "Test #2",
+    "author": "Mr. Xyfir",
+    "posted": "2018-07-13"
+  }
+]
