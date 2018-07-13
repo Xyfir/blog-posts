@@ -5,7 +5,8 @@
     "title": "Test #1",
     "author": "Mr. Xyfir",
     "posted": "2018-07-12",
-    "edited": "2018-07-13"
+    "edited": "2018-07-13",
+    "canonical": "https://www.xyfir.com/blog/test-1"
   },
   {
     "id": "test/2018/07/test-2",
