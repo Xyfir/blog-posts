@@ -5,6 +5,8 @@
     "title": "What is a proxy email?",
     "author": "Mr. Xyfir",
     "posted": "2018-07-15",
-    "canonical": "https://ptorx.com/blog/ptorx/2018/07/what-is-a-proxy-email"
+    "canonical": "https://ptorx.com/blog/ptorx/2018/07/what-is-a-proxy-email",
+    "description":
+      "An email address that forwards incoming mail to another, hidden email address. A proxy email can also redirect outgoing mail to hide its actual origins."
   }
 ]
