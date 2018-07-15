@@ -1,18 +1,10 @@
 [
   {
-    "id": "test/2018/07/test-1",
-    "group": "test",
-    "title": "Test #1",
+    "id": "ptorx/2018/07/what-is-a-proxy-email",
+    "group": "ptorx",
+    "title": "What is a proxy email?",
     "author": "Mr. Xyfir",
-    "posted": "2018-07-12",
-    "edited": "2018-07-13",
-    "canonical": "https://www.xyfir.com/blog/test-1"
-  },
-  {
-    "id": "test/2018/07/test-2",
-    "group": "test",
-    "title": "Test #2",
-    "author": "Mr. Xyfir",
-    "posted": "2018-07-13"
+    "posted": "2018-07-15",
+    "canonical": "https://ptorx.com/blog/ptorx/2018/07/what-is-a-proxy-email"
   }
 ]
