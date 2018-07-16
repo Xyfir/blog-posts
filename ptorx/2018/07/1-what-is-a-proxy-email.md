@@ -4,9 +4,9 @@ Let's expand upon that, and say that you have a real, non-proxy email address ca
 
 A visual example:
 
-- Mail is sent from `incoming-mail@example.com` to
-  - `your-proxy-email@ptorx.com` which redirects to
-    - `your-real-email@example.com` where you see the mail in your normal inbox
+- Mail is sent from incoming-mail@example.com to
+  - your-proxy-email@ptorx.com which redirects to
+    - your-real-email@example.com where you see the mail in your normal inbox
 
 This is why proxy emails are a great way to hide your real email addresses from companies, hackers, spammers, and so on, to protect both your privacy and security. In addition to receiving mail, a proxy email can also send mail, and reply to received mail, all while keeping the real email address that it is a proxy for hidden away from whoever receives your sent mail.
 
