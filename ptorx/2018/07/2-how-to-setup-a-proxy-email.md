@@ -36,8 +36,8 @@ By choosing the `(Instant)` option you skipped over a lot of optional configurat
 That wasn't very helpful (unless you skipped #3), so let's go over the things you can configure:
 
 - `Name` / `Description`: Hopefully self-explanatory, a name and description for your new proxy email. This is just to make your life easier for when you have dozens or hundreds or thousands of proxy emails and are trying to search through all of them.
-- `Address`: This is the _**`address`**_@domain.com part of your proxy email address. Set this to whatever you want, or leave it blank and get a random English word followed by some random numbers if you're indecisive or just don't care.
-- `Domain`: This is the address@**_`domain.com`_** part of your proxy email address. Probably your only option is `ptorx.com` so there's not much you can do here. However, if you've added a domain to your account or were given access to another user's domain, you can select it here.
+- `Address`: This is the ADDRESS@domain.com part of your proxy email address. Set this to whatever you want, or leave it blank and get a random English word followed by some random numbers if you're indecisive or just don't care.
+- `Domain`: This is the address@DOMAIN.COM part of your proxy email address. Probably your only option is `ptorx.com` so there's not much you can do here. However, if you've added a domain to your account or were given access to another user's domain, you can select it here.
 - `Redirect To`: The _real_ email address that your _proxy_ email address will redirect (allowed) incoming mail to.
 - `Spam Filter`: When enabled, any mail Ptorx thinks is spam will be ignored and not redirected.
 - `Save Mail`: When enabled, mail will be _temporarily_ stored on Ptorx's servers for you to access at some point in the near future from your proxy email's inbox within the Ptorx app.
