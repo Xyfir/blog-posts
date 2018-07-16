@@ -4,8 +4,9 @@
     "group": "ptorx",
     "title": "How to setup a proxy email",
     "author": "Mr. Xyfir",
-    "posted": "2018-07-16",
-    "canonical": "https://ptorx.com/blog/{{post.id}}",
+    "posted": "2018-07-15",
+    "canonical":
+      "https://ptorx.com/blog/ptorx/2018/07/2-how-to-setup-a-proxy-email",
     "description":
       "Learn how to setup proxy emails to anonymously send and receive mail."
   },
@@ -14,8 +15,8 @@
     "group": "ptorx",
     "title": "What is a proxy email?",
     "author": "Mr. Xyfir",
-    "posted": "2018-07-15",
-    "canonical": "https://ptorx.com/blog/{{post.id}}",
+    "posted": "2018-07-14",
+    "canonical": "https://ptorx.com/blog/ptorx/2018/07/1-what-is-a-proxy-email",
     "description":
       "An email address that forwards incoming mail to another, hidden email address. A proxy email can also redirect outgoing mail to hide its actual origins."
   }
